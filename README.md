@@ -104,3 +104,7 @@ Available commands:
   why-not         Shows which packages prevent the given package from being installed
 
 ```
+
+文档：http://www.cnblogs.com/52fhy/p/5246013.html  
+Packagist：https://packagist.org/  
+
