@@ -24,12 +24,12 @@ $ composer update -vvv
 我们为composer installer也做了镜像，您可以尝试：
 
 ```
-$ curl -sS http://packagist.cn/composer/installer | php
+$ curl -sS https://github.com/52fhy/composer/raw/master/bin/installer | php
 ```
 如果没有安装curl，尝试以下命令（PHP你总得装吧喂～）
 
 ```
-$ php -r "readfile('http://packagist.cn/composer/installer');" | php
+$ php -r "readfile('https://github.com/52fhy/composer/raw/master/bin/installer');" | php
 ```
 
 当然，如果您不需要检查运行环境，也可以直接下载（一般来说直接下载就可以用）:
