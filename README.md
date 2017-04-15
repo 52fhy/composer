@@ -34,8 +34,12 @@ $ php -r "readfile('https://github.com/52fhy/composer/raw/master/bin/installer')
 
 当然，如果您不需要检查运行环境，也可以直接下载（一般来说直接下载就可以用）:
 
-https://github.com/52fhy/composer/raw/master/bin/Composer-Setup.exe
-https://github.com/52fhy/composer/raw/master/bin/composer.phar
+https://github.com/52fhy/composer/raw/master/bin/Composer-Setup.exe  
+https://github.com/52fhy/composer/raw/master/bin/composer.phar  
+
+官网地址：
+https://getcomposer.org/Composer-Setup.exe  
+https://getcomposer.org/composer.phar  
 
 或者
 http://pan.baidu.com/s/1gfmSIbD 密码: f4vr
@@ -106,7 +110,15 @@ Available commands:
 ```
 
 文档：http://www.cnblogs.com/52fhy/p/5246013.html  
+Composer：https://getcomposer.org/  
+Composer Doc：https://getcomposer.org/doc  
 Composer 中文网：http://www.phpcomposer.com/  
 Packagist：https://packagist.org/  
+
+Composer快速入门 - icyfire - SegmentFault
+https://segmentfault.com/a/1190000005624202  
+
+Composer进阶使用 —— 常用命令和版本约束 - icyfire - SegmentFault
+https://segmentfault.com/a/1190000005898222  
 
 
