@@ -106,5 +106,7 @@ Available commands:
 ```
 
 文档：http://www.cnblogs.com/52fhy/p/5246013.html  
+Composer 中文网：http://www.phpcomposer.com/  
 Packagist：https://packagist.org/  
+
 
